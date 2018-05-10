@@ -1,8 +1,8 @@
 class JupyterIjavascript < Formula
   desc "iJavascript Kernel Plugin"
-  # homepage "https://beyondgrep.com/"
-  # url "https://beyondgrep.com/ack-2.22-single-file"
-  # version "2.22"
+  homepage "http://github.com/mechanoid/homebrew-custom-installs"
+  url "http://github.com/mechanoid/homebrew-custom-installs/jupyter-ijavascript.rb"
+  version "0.1"
   # sha256 "fd0617585b88517a3d41d3d206c1dc38058c57b90dfd88c278049a41aeb5be38"
   # head "https://github.com/petdance/ack2.git", :branch => "dev"
 
